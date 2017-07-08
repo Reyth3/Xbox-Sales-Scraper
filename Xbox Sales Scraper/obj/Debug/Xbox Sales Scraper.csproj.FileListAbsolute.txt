@@ -1,0 +1,9 @@
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\bin\Debug\Xbox Sales Scraper.exe.config
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\bin\Debug\Xbox Sales Scraper.exe
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\bin\Debug\Xbox Sales Scraper.pdb
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\bin\Debug\HtmlAgilityPack.dll
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\bin\Debug\HtmlAgilityPack.pdb
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\bin\Debug\HtmlAgilityPack.xml
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\obj\Debug\Xbox Sales Scraper.csprojResolveAssemblyReference.cache
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\obj\Debug\Xbox Sales Scraper.exe
+c:\users\mrrey\documents\visual studio 2017\Projects\Xbox Sales Scraper\Xbox Sales Scraper\obj\Debug\Xbox Sales Scraper.pdb
